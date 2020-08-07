@@ -1,7 +1,10 @@
 # 単発案件 開発環境
 
-|dist|出力ディレクトリ|
-|src|開発用ディレクトリ|
-|webpack.config|ー|
-|package.json|ー|
-|.browserlistrc|ー|
+| file / directory | description |
+| ---------------- | ----------- |
+| dist             | 出力ディレクトリ    |
+| src              | 開発用ディレクトリ   |
+| webpack.config   | -           |
+| package.json     | -           |
+| .browserlistrc   | -           |
+
