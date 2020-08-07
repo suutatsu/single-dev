@@ -1,0 +1,17 @@
+body {
+  color: blue;
+}
+@media (max-width: 1079px) {
+  .test {
+    background: #999;
+  }
+}
+@media (max-width: 767px) {
+  .test {
+    background: -webkit-gradient(linear, left top, right top, color-stop(50%, #ff6f00), color-stop(50%, #009688));
+    background: linear-gradient(to right, #ff6f00 50%, #009688 50%);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+}
